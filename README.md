@@ -11,7 +11,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/harshal0212/Calculator)
 ![GitHub repo size](https://img.shields.io/github/repo-size/harshal0212/Calculator)
 ![GitHub total lines](https://sloc.xyz/github/harshal0212/Calculator)
-![Github](https://img.shields.io/github/license/harshal0212/Calculator)
 
 </p>
 </div>
