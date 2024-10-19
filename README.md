@@ -53,9 +53,9 @@ This calculator is a collection of arithmetic operations like 'Addition, Subtrac
 
 <h3>Live Project -- (https://simplecalculator02.netlify.app/)</h3><br>
 
-<h3>Home/Main Page :-</h3>
+<h3>Calculator Page :-</h3>
 
-![image](https://github.com/harshal0212/Calculator/assets/ss.png)<br><br>
+![image](https://github.com/harshal0212/Calculator/blob/8ed08caaea0dff20c07f2ca9f713c85d3e055e18/assests/ss.png)<br><br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
